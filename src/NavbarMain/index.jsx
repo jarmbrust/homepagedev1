@@ -6,7 +6,7 @@ import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Image from 'react-bootstrap/Image'
 import { GoMarkGithub } from 'react-icons/go';
 import { GrLinkedin } from 'react-icons/gr';
-import avatar from './../images/jamesavatar2.png';
+import avatar from './../images/jamesavatar4.png';
 
 export const NavbarMain = () => {
 
