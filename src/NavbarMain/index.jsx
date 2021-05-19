@@ -12,7 +12,7 @@ export const NavbarMain = () => {
 
   const renderTooltip = props => (
     <Tooltip id="tooltip-right" {...props}>
-      A rather inccurate avatar of me...
+      A rather inaccurate avatar of me...
     </Tooltip>
   );
 

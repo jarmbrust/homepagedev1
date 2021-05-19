@@ -9,7 +9,7 @@ export const Intro = () => {
           Hello, My name is James, and I am a software developer living in Longmont Colorado with my wife Lacey, and our three dogs, three cats, and assortment of tarantulas.
         </p>
         <p>
-          There will be more to come here soon!  I set this page up mostly last Saturday, and will be working on it again tonight to flesh it out more.
+          Set this site up last weekend, so come back soon as it will be fleshed out over the next couple of days.
         </p>
       </div>
     </>
